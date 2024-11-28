@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&{%20%22idx%22:%203,%20%22color%22:%20%22F8E2CF%22,%20%22text%22:%20%22363636%22,%20%22textBg%22:%20%22f7f5f5%22%20}&height=200&text=Juyoung%27s%20Github&animation=fadeIn)
 
 
-- 👋 Hi, I’m @JuyoungYang
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### Hello, World! 👋
+I'm **Juyoung Yang**, developer who loves to build and learn. 
+
+- 🛠️ **Skills**: Python 
+- 🎯 **Goals**: Contribute to open-source and create meaningful projects  
+- 🌟 **Hobbies**: Reading, playing lol, and exploring AI
+
+📫 **Connect with me**:  
+[![GitHub](https://img.shields.io/badge/GitHub-@JuyoungYang-blue?logo=github)](https://github.com/JuyoungYang)  
+
+
 
