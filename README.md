@@ -2,11 +2,10 @@
 
 
 - ### Hello, World! 👋
-I'm **Juyoung Yang**, developer who loves to build and learn. 
-
+I'm **Juyoung Yang**.
 - 🛠️ **Skills**: Python 
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
-- 🌟 **Hobbies**: Reading, playing lol, and exploring AI
+- 🌟 **Hobbies**: playing lol, exploring AI
 
 📫 **Connect with me**:  
 [![GitHub](https://img.shields.io/badge/GitHub-@JuyoungYang-blue?logo=github)](https://github.com/JuyoungYang)  
