@@ -4,9 +4,10 @@
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
 - 🌟 **Hobbies**: playing lol, exploring AI
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuyoungYang&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyoungYang&layout=compact)](https://github.com/JuyoungYang/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung_yang)](https://solved.ac/juyoung_yang)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuyoungYang&show_icons=true&theme=buefy)
+
 
 
 📫 **Connect with me**:  
