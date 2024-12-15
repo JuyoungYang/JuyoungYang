@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&{%20%22idx%22:%203,%20%22color%22:%20%22F8E2CF%22,%20%22text%22:%20%22363636%22,%20%22textBg%22:%20%22f7f5f5%22%20}&height=200&text=Juyoung%27s%20Github&animation=fadeIn)
+![github](https://github.com/user-attachments/assets/5022e9a6-83e9-41ba-a517-6f94053a28c2)
 
-
-- ### Hello, World! 👋
-I'm **Juyoung Yang**.
 - 🛠️ **Skills**: Python 
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
 - 🌟 **Hobbies**: playing lol, exploring AI
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyoungYang&layout=compact)](https://github.com/JuyoungYang/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung_yang)](https://solved.ac/juyoung_yang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuyoungYang&show_icons=true&theme=buefy)
+
 
 📫 **Connect with me**:  
 [![GitHub](https://img.shields.io/badge/GitHub-@JuyoungYang-blue?logo=github)](https://github.com/JuyoungYang)  
