@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/5022e9a6-83e9-41ba-a517-6f94053a28c2)
+![github](https://github.com/user-attachments/assets/529938f7-7e86-4c45-8591-653361682efb)
   
 - 🛠️ **Skills**: Python 
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
