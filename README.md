@@ -20,6 +20,8 @@
 
 📫 **Connect with me**:  
 [![GitHub](https://img.shields.io/badge/GitHub-@JuyoungYang-blue?logo=github)](https://github.com/JuyoungYang)  
+[![GitHub](https://img.shields.io/badge/tistory-@JuyoungYang-blue?logo=github)](https://mynews0741.tistory.com)  
+![GitHub](https://img.shields.io/badge/Email-@JuyoungYang11@gmail.com-blue?logo=github)
 
 
 
