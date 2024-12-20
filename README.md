@@ -1,8 +1,12 @@
-![제목을-입력해주세요_](https://github.com/user-attachments/assets/a7094d54-c400-46c4-ae66-7e314b4ccb8d)
+<div align="center">  
+  
+![제목을-입력해주세요_ (1)](https://github.com/user-attachments/assets/111f9312-25d3-40f7-8add-e780fc70f9df)  
+  
+</div>
   
 - 🛠️ **Skills**: Python 
+- 🌟 **Hobbies**: playing lol
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
-- 🌟 **Hobbies**: playing lol, exploring AI
 
 <div align="center">  
 
