@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/529938f7-7e86-4c45-8591-653361682efb)
+![어두운배경](https://github.com/user-attachments/assets/6eb8c19b-c153-44a6-b0b0-e8d58afa8409)
   
 - 🛠️ **Skills**: Python 
 - 🎯 **Goals**: Contribute to open-source and create meaningful projects  
