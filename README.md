@@ -1,6 +1,6 @@
 <div align="center">  
   
-![제목을-입력해주세요_ (4)](https://github.com/user-attachments/assets/043c1315-66cf-4c58-ae80-414a97315db9)
+![제목을-입력해주세요_ (2)](https://github.com/user-attachments/assets/a9c73fce-cc31-4cc1-9a27-e2a136acfb65)
 
  
 </div>
