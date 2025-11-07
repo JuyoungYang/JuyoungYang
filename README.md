@@ -23,17 +23,6 @@ ____
 
 <hr>
 
-# 🎊Challenge-Records🎊
-
-<div align="center">  
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyoung_yang)](https://solved.ac/juyoung_yang)
-<img src="http://mazandi.herokuapp.com/api?handle=juyoung_yang&theme=warm"/>
-
-</div>
-
-<hr>
-
 # My Pet🐶
 
 <div align="center">  
